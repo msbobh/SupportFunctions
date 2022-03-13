@@ -1,6 +1,6 @@
 
 bin/Release/*.*
-obj/Release/*.*
-.vs/DeepBe/v16/*.*
+obj/
+.vs/
 bin/Debug/*.*
 
